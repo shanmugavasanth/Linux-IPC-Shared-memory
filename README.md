@@ -28,6 +28,7 @@ Execute the C Program for the desired output.
 
 ## OUTPUT
 
+![image](https://github.com/shanmugavasanth/Linux-IPC-Shared-memory/assets/144870621/b3a68d7d-50e8-44e9-905e-09eafedd91b9)
 
 # RESULT:
 The program is executed successfully.
